@@ -37,5 +37,14 @@ public class Assignment {
             revname2 = revname2 + name2.charAt(i);
         }
         System.out.println(revname2);
+
+        for (int i = 0; i < 3; i++) {
+            for (int l = 0; l < 2; l++) {
+                System.out.print("*");
+            }
+        }
+
     }
+
+
 }
