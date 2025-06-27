@@ -1,4 +1,4 @@
-package ex_14_Test;
+package Assignments;
 
 import java.util.Scanner;
 

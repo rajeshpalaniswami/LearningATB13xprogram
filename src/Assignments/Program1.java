@@ -1,4 +1,4 @@
-package ex_14_Test;
+package Assignments;
 
 public class Program1 {
 //Write a Java program to declare variables of all primitive data types and print their default values.

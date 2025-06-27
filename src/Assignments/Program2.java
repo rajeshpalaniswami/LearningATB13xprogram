@@ -1,6 +1,4 @@
-package ex_14_Test;
-
-import javax.print.DocFlavor;
+package Assignments;
 
 public class Program2 {
     //Write a program to demonstrate string concatenation with numbers.
