@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program22 {
+public class Program_022 {
     public static void main(String[] args) {
         /*
         Find if a Person Can Travel Based on Visa Status and Age.

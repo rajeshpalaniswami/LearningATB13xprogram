@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program21 {
+public class Program_021 {
     /*
     Calculate Employee Net Salary (Basic Pay, HRA, DA, Tax Deductions,)
     Reserch from your side for this program.

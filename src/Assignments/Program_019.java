@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program19 {
+public class Program_019 {
     /***
      * Electricity Bill Calculation (Based on Units Consumed)
      *            :- take the input from the user of Units.

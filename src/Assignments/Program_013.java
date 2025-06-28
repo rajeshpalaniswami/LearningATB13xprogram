@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program13 {
+public class Program_013 {
     //Check if a Number is Prime
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

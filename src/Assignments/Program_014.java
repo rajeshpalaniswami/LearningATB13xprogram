@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program14 {
+public class Program_014 {
     /***
      *ATM Withdrawal Simulation. (Follow Below Steps to Write Program)
      *        Steps to Write the Program

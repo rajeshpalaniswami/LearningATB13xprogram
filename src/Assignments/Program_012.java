@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program12 {
+public class Program_012 {
     //Check if a Character is an Alphabet
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

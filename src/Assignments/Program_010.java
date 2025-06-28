@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program10 {
+public class Program_010 {
     public static void main(String[] args) {
         //Check if a Year is a Leap Year.
         Scanner scan = new Scanner(System.in);

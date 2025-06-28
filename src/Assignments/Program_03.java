@@ -1,6 +1,6 @@
 package Assignments;
 
-public class Program3 {
+public class Program_03 {
     public static void main(String[] args) {
         //.Create a program to show the difference between ++i and i++.
 

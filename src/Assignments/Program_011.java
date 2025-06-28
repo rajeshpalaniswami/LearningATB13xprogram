@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program11 {
+public class Program_011 {
     /***
      * Calculate Grade Based on Marks. (Follow Below Steps to Write Program.)
      * 1️⃣ Take user input for marks (Use Scanner class).

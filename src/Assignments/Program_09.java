@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program9 {
+public class Program_09 {
     public static void main(String[] args) {
         // Find the Largest of Two Numbers.
         Scanner scan = new Scanner(System.in);
