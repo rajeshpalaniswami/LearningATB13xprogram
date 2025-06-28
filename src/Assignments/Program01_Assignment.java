@@ -1,6 +1,6 @@
 package Assignments;
 
-public class Program_01 {
+public class Program01_Assignment {
 //Write a Java program to declare variables of all primitive data types and print their default values.
     public static void main(String[] args) {
         byte a = 0;
