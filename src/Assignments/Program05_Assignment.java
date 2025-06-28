@@ -1,6 +1,6 @@
 package Assignments;
 
-public class Program_05 {
+public class Program05_Assignment {
     public static void main(String[] args) {
         //Create a program to demonstrate all types of operators
 

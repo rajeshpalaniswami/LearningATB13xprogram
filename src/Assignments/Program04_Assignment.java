@@ -1,6 +1,6 @@
 package Assignments;
 
-public class Program_04 {
+public class Program04_Assignment {
     public static void main(String[] args) {
         //Write a program to demonstrate type casting (both implicit and explicit).
 
