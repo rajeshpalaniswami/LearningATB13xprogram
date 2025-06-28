@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program_023 {
+public class Program023_Assignment {
     //Check if a Number is Divisible by 5 and 11
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program_017 {
+public class Program017_Assignment {
     //Check if a Number is an Armstrong Number.
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program_020 {
+public class Program020_Assignment {
     /*
      * Calculate Bonus Based on Salary and Years of Experience.
      *           :- take the salary and Year info from the User.

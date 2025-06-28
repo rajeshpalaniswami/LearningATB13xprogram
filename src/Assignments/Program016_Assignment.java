@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program_016 {
+public class Program016_Assignment {
     //Check if a Number is a Palindrome.
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

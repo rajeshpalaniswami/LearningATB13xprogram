@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program_08 {
+public class Program08_Assignment {
     public static void main(String[] args) {
 //Find the Smallest of Three Numbers
         Scanner scan = new Scanner(System.in);

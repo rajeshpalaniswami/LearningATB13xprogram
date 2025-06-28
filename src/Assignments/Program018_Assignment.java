@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program_018 {
+public class Program018_Assignment {
     /****
      * Check if a Person is Eligible for a Loan (Based on Age, Salary, and Credit Score)
      *     * Take the below User info and store it into the variables:

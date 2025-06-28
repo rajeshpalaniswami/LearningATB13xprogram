@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program_025 {
+public class Program025_Assignment {
 
     /*
     Determine the Type of Website Based on Domain (.com, .org, .edu, etc.)

@@ -10,7 +10,7 @@ Convert Days into Years, Months, and Days.
         Convert the Days into Years, Month and days and Print it.
 if you input 1000 days, the output of the program would be:  2 years, 9 months, and 0 days.
  */
-public class Program_024 {
+public class Program024_Assignment {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int days =0;

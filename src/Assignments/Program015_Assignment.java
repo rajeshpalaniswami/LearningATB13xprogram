@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Program_015 {
+public class Program015_Assignment {
     //Check if a Triangle is Valid Based on Three Sides.
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
