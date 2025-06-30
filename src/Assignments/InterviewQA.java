@@ -9,7 +9,7 @@ public class InterviewQA {
         for (int i=0;i<=givenString.length()-1;i++){
             char a = givenString.toLowerCase().charAt(i);
             if (a>='a'&&a<='z'){
-                System.out.println(a);
+                System.out.print(a);
             }
         }
 
