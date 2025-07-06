@@ -1,6 +1,6 @@
 package Assignments;
 
-public class Interview012 {
+public class InterviewQA018 {
     //Write code to find the middle of a string
     public static void main(String[] args) {
         String givStr = "my name is rajesh";
