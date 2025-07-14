@@ -6,9 +6,9 @@ public class InterviewQA011 {
         String giv = "RRRRRRRajeshjjjjj";
         String out = "";
         for (int i =0;i<=giv.length()-1;i++){
-            char a = giv.charAt(i);
-            if (out.indexOf(a)== -1){
-                out = out +a;
+          //  char a = giv.charAt(i);
+            if (out.indexOf(giv.charAt(i))== -1){
+                out = out +giv.charAt(i);
             }
         }
         System.out.println(out);

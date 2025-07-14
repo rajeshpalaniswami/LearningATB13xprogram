@@ -8,7 +8,9 @@ public class InterviewQA {
         String givenString = "ttessst@innnn123ggg!";
         for (int i=0;i<=givenString.length()-1;i++){
             char a = givenString.toLowerCase().charAt(i);
-            if (a>='a'&&a<='z'){
+            if (a<'a'||a>'z'){
+                continue;
+            }else {
                 System.out.print(a);
             }
         }
